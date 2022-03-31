@@ -1,7 +1,7 @@
 # DSCI-525_Group-6
 
 ## Objective
-This project eaims to build and deploy ensemble machine learning models in the cloud to predict daily rainfall in Australia on a large dataset (~6 GB), where features are outputs of different climate models, and the target is the actual rainfall observation.
+This project aims to build and deploy ensemble machine learning models in the cloud to predict daily rainfall in Australia on a large dataset (~6 GB), where features are outputs of different climate models, and the target is the actual rainfall observation.
 
 ## Support
 
